@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laomaoyungw.com/sitemap.xml
